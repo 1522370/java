@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("git-hot 第2版本");
         System.out.println("git-hot 第2版本");
         System.out.println("master 第3版本");
+        System.out.println("git-hot 第3版本");
     }
 }
