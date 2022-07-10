@@ -5,5 +5,6 @@ public class GitTest {
         System.out.println("git成功配制");
         System.out.println("git  配制");
         System.out.println("git 第三版本");
+        System.out.println("git-hot 第1版本");
     }
 }
