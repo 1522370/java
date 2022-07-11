@@ -12,6 +12,7 @@ public class GitTest {
         System.out.println("git-hot 第3版本");
         System.out.println("git-master 第四版本");
         System.out.println("pull master");
+        System.out.println("gitee master版本");
         
     }
 }
